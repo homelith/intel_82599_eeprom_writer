@@ -5,11 +5,11 @@
 - Intel 82599 EB/ES/EN 10 Gigabit Ethernet Controller have an EEPROM recovery mechanism using SMBus, even if they lose connection via PCIe due to faulty EEPROM config.
 - This toolkit includes a SMBus writer for Seeeduino v4.2 and speed-controlled EEPROM image sender script for host computer, useful for Intel 82599 EEPROM recovery via SMBus.
 
-- *CAUTION* : Modifying any part of Intel 82599 EEPROM might cause malfunction and make your NIC completely inoperable. The author does not take any responsibility for loss of data or functionality of your equippments. Try it with your own risk.
+- *CAUTION* : Modifying any part of Intel 82599 EEPROM might cause malfunction and make your NIC completely inoperable. The author does not take any responsibility for loss of data or functionality of your equipment. Try it with your own risk.
 
 ## Licenses
 
-- Codes are licensed under MIT license, see header of indivisual files.
+- Codes are licensed under MIT license, see header of individual files.
 
 ## Prerequisites
 
